@@ -1,0 +1,20 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary exports and source files
+*.tmp
+*.temp
+*.part
+*.crdownload
+
+# Common local editing files
+*.blend1
+*.psd~
+
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
