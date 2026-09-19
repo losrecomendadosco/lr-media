@@ -1,20 +1,20 @@
-# OS and editor files
+# OS and editor files / Archivos del sistema y editores
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
 
-# Temporary exports and source files
+# Temporary exports and source files / Exportaciones y archivos temporales
 *.tmp
 *.temp
 *.part
 *.crdownload
 
-# Common local editing files
+# Common local editing files / Archivos comunes de edición local
 *.blend1
 *.psd~
 
-# Secrets and local environment files
+# Secrets and local environment files / Secretos y archivos de entorno local
 .env
 .env.*
 !.env.example
